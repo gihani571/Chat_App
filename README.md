@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/HnJFJmfc/chatApp.png" alt="project-screenshot" width="400" height="600/">
+<img src="https://i.postimg.cc/HnJFJmfc/chatApp.png" alt="project-screenshot" width="400" height="400/">
 
   
   
